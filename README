@@ -1,5 +1,5 @@
 Agenda
-Criação de uma agenda que adiciona evento na agenda do celular
+Criação de uma agenda que adiciona evento na agenda do celular utilizando a linguagem Kotlin no Android Studio.
 
 1. Fonte de dados:
   - [Bootcamp Kotlin - Recursos Nativos](https://drive.google.com/file/d/1WbVvZ9aWLhyGHebl1uodxx1YngqTweOT/view)
